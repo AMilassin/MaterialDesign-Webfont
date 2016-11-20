@@ -1,1 +1,1 @@
-module.exports = require(".scss/materialdesignicons.scss");
+module.exports = require("./scss/materialdesignicons.scss");
